@@ -1,12 +1,5 @@
 # Thai nautilus translation.
 # Copyright (C) 2003-2016 Free Software Foundation, Inc.
-# This file is distributed under the same license as the nautilus package.
-# Paisa Seeluangsawat <paisa@users.sf.net>, 2003, 2004.
-# Supranee Thirawatthanasuk <supranee@opentle.org>, 2004-2005.
-# Theppitak Karoonboonyanan <theppitak@gmail.com>, 2004-2012.
-# Akom Chotiphantawanon <knight2000@gmail.com>, 2013-2016, 2016, 2020.
-# Atirut Wattanamongkol <atirut.wattanamongkol@gmail.com>, 2024.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: nautilus\n"
